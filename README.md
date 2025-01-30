@@ -26,16 +26,6 @@ Welcome to my **Image Gallery Web App** project, created as part of my **CodeAlp
 4️⃣ Switch between dark and light mode for a personalized look.  
 5️⃣ Enjoy the smooth user experience with optimized performance.  
 
-## 🚀 Live Demo:
-Check out the live version here: **[Live Demo Link]**  
-
-## 📂 Project Setup:
-To run this project locally:  
-```bash
-  git clone https://github.com/yourusername/image-gallery-codealpha.git  
-  cd image-gallery-codealpha  
-  open index.html in your browser  
-```
 
 ## 🤝 Contribute:
 Want to enhance this project? Feel free to fork and contribute!  
